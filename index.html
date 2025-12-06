@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>DOPredict-Net</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <!-- Logo góc trên trái -->
+    <img class="logo" src="Image/Name_Web.png" alt="Logo" />
+
+    <!-- Lớp mờ phủ background -->
+    <div class="overlay"></div>
+
+    <!-- Khung mờ bên trái -->
+    <main class="container left-panel" role="main">
+
+        <h1 class="title">Thông tin đầu vào</h1>
+
+        <div class="form-inputs">
+
+            <label>Gen</label>
+            <input type="text" id="gene" class="input-box" placeholder="Nhập gen..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+
+            <label for="mutation">Đột biến</label>
+            <div class="autocomplete-box" id="mutation-box">
+                <input type="text" id="mutation" class="input-box" placeholder="Nhập đột biến..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+                <button type="button" class="dropdown-btn" onclick="toggleList('mutation')">
+                    <img src="Image/dropdown.png">
+                </button>
+                <ul id="mutation-list" class="dropdown-list"></ul>
+            </div>
+
+            <label for="clinical">Lâm sàng</label>
+            <input type="text" id="clinical" class="input-box" placeholder="Nhập mô tả lâm sàng..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+
+            <label for="cancer">Tên loại ung thư</label>
+            <div class="autocomplete-box" id="cancer-box">
+                <input type="text" id="cancer" class="input-box" placeholder="Nhập loại ung thư..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+                <button type="button" class="dropdown-btn" onclick="toggleList('cancer')">
+                    <img src="Image/dropdown.png">
+                </button>
+                <ul id="cancer-list" class="dropdown-list"></ul>
+            </div>
+
+            <label for="stage">Giai đoạn</label>
+            <div class="autocomplete-box" id="stage-box">
+                <input type="text" id="stage" class="input-box" placeholder="Nhập giai đoạn..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+                <button type="button" class="dropdown-btn" onclick="toggleList('stage')">
+                    <img src="Image/dropdown.png">
+                </button>
+                <ul id="stage-list" class="dropdown-list"></ul>
+            </div>
+        </div>
+    </main>
+
+    <!-- Khung mờ bên phải -->
+    <section class="container right-panel">
+        <img src="Image/delete.png" class="delete-icon" id="deleteBtn" alt="Delete">
+        <h1 class="title">Kết quả</h1>
+        <div class="form-output" id="result-box"></div>
+    </section>
+
+    <!-- Nút gửi -->
+    <img src="Image/send.png" class="send-icon" id="submit-btn" alt="Send">
+
+    <!-- Tag cuối trang -->
+    <div class="tag-box">Created with Angry</div>
+
+    <div id="alert-box" class="alert-box">
+        <img src="Image/close.png" id="alert-close" class="alert-close">
+        <p>Vui lòng nhập đủ thông tin.</p>
+    </div>
+
+</body>
+</html>

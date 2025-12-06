@@ -1,0 +1,21 @@
+Amplification
+G12D
+G12V
+G13D
+H1047R
+E545K
+V600E
+V600K
+EML4-ALK Fusion
+R175H
+R273C
+185delAG
+6174delT
+Q61K
+Q61R
+Exon14 Skipping
+RET Fusion
+NTRK Fusion
+L858R
+Exon19del
+T790M

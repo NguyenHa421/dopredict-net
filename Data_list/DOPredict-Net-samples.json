@@ -1,0 +1,1335 @@
+[
+  {
+    "id": 1,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư buồng trứng",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 2,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư gan",
+    "stage": "Giai đoạn II",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 3,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư da hắc tố",
+    "stage": "Giai đoạn di căn",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 4,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư hạch không Hodgkin",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 5,
+    "gene": "EGFR",
+    "mutation": "Exon19del",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư phổi tế bào nhỏ",
+    "stage": "Giai đoạn III",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon19del."
+  },
+  {
+    "id": 6,
+    "gene": "KRAS",
+    "mutation": "G12D",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư đại trực tràng",
+    "stage": "Giai đoạn III",
+    "recommended_drug": "Sotorasib",
+    "recommended_combination": [
+      "Sotorasib",
+      "Panitumumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Sotorasib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến G12D."
+  },
+  {
+    "id": 7,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư tuyến giáp",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 8,
+    "gene": "NRAS",
+    "mutation": "Q61R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư buồng trứng",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61R."
+  },
+  {
+    "id": 9,
+    "gene": "KRAS",
+    "mutation": "G12D",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư tụy",
+    "stage": "Giai đoạn di căn",
+    "recommended_drug": "Sotorasib",
+    "recommended_combination": [
+      "Sotorasib",
+      "Panitumumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Sotorasib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến G12D."
+  },
+  {
+    "id": 10,
+    "gene": "ALK",
+    "mutation": "EML4-ALK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư gan",
+    "stage": "Giai đoạn III",
+    "recommended_drug": "Alectinib",
+    "recommended_combination": [
+      "Alectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Alectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến EML4-ALK Fusion."
+  },
+  {
+    "id": 11,
+    "gene": "BRCA2",
+    "mutation": "6174delT",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư thực quản",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Rucaparib",
+    "recommended_combination": [
+      "Rucaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Rucaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 6174delT."
+  },
+  {
+    "id": 12,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư phổi không tế bào nhỏ",
+    "stage": "Giai đoạn di căn",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 13,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư thực quản",
+    "stage": "Giai đoạn IV",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 14,
+    "gene": "NRAS",
+    "mutation": "Q61R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư hạch không Hodgkin",
+    "stage": "Giai đoạn khu trú",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61R."
+  },
+  {
+    "id": 15,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư da hắc tố",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 16,
+    "gene": "BRCA2",
+    "mutation": "6174delT",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư dạ dày",
+    "stage": "Giai đoạn sớm",
+    "recommended_drug": "Rucaparib",
+    "recommended_combination": [
+      "Rucaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Rucaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 6174delT."
+  },
+  {
+    "id": 17,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư gan",
+    "stage": "Giai đoạn IV",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 18,
+    "gene": "TP53",
+    "mutation": "R175H",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư đầu cổ",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Cisplatin",
+    "recommended_combination": [
+      "Cisplatin",
+      "5-FU"
+    ],
+    "drug_effectiveness_info": "Thuốc Cisplatin cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến R175H."
+  },
+  {
+    "id": 19,
+    "gene": "NRAS",
+    "mutation": "Q61K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư gan",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61K."
+  },
+  {
+    "id": 20,
+    "gene": "NRAS",
+    "mutation": "Q61K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư buồng trứng",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61K."
+  },
+  {
+    "id": 21,
+    "gene": "BRCA2",
+    "mutation": "6174delT",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư hạch không Hodgkin",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Rucaparib",
+    "recommended_combination": [
+      "Rucaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Rucaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 6174delT."
+  },
+  {
+    "id": 22,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư phổi tế bào nhỏ",
+    "stage": "Giai đoạn sớm",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 23,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư tuyến tiền liệt",
+    "stage": "Giai đoạn II",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 24,
+    "gene": "BRCA1",
+    "mutation": "185delAG",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư thực quản",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Olaparib",
+    "recommended_combination": [
+      "Olaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Olaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 185delAG."
+  },
+  {
+    "id": 25,
+    "gene": "EGFR",
+    "mutation": "Exon19del",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư xương",
+    "stage": "Giai đoạn khu trú",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon19del."
+  },
+  {
+    "id": 26,
+    "gene": "ALK",
+    "mutation": "EML4-ALK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư buồng trứng",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Alectinib",
+    "recommended_combination": [
+      "Alectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Alectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến EML4-ALK Fusion."
+  },
+  {
+    "id": 27,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư dạ dày",
+    "stage": "Giai đoạn di căn",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 28,
+    "gene": "MET",
+    "mutation": "Exon14 Skipping",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư dạ dày",
+    "stage": "Giai đoạn khu trú",
+    "recommended_drug": "Capmatinib",
+    "recommended_combination": [
+      "Capmatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Capmatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon14 Skipping."
+  },
+  {
+    "id": 29,
+    "gene": "EGFR",
+    "mutation": "L858R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư xương",
+    "stage": "Giai đoạn II",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến L858R."
+  },
+  {
+    "id": 30,
+    "gene": "NRAS",
+    "mutation": "Q61R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư tụy",
+    "stage": "Giai đoạn di căn",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61R."
+  },
+  {
+    "id": 31,
+    "gene": "EGFR",
+    "mutation": "L858R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư buồng trứng",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến L858R."
+  },
+  {
+    "id": 32,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư tuyến giáp",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 33,
+    "gene": "ALK",
+    "mutation": "EML4-ALK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư tụy",
+    "stage": "Giai đoạn II",
+    "recommended_drug": "Alectinib",
+    "recommended_combination": [
+      "Alectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Alectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến EML4-ALK Fusion."
+  },
+  {
+    "id": 34,
+    "gene": "KRAS",
+    "mutation": "G12V",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư thực quản",
+    "stage": "Giai đoạn II",
+    "recommended_drug": "Sotorasib",
+    "recommended_combination": [
+      "Sotorasib",
+      "Panitumumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Sotorasib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến G12V."
+  },
+  {
+    "id": 35,
+    "gene": "PIK3CA",
+    "mutation": "H1047R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư gan",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Alpelisib",
+    "recommended_combination": [
+      "Alpelisib",
+      "Fulvestrant"
+    ],
+    "drug_effectiveness_info": "Thuốc Alpelisib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến H1047R."
+  },
+  {
+    "id": 36,
+    "gene": "TP53",
+    "mutation": "R175H",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư xương",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Cisplatin",
+    "recommended_combination": [
+      "Cisplatin",
+      "5-FU"
+    ],
+    "drug_effectiveness_info": "Thuốc Cisplatin cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến R175H."
+  },
+  {
+    "id": 37,
+    "gene": "EGFR",
+    "mutation": "T790M",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến T790M."
+  },
+  {
+    "id": 38,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư tuyến giáp",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 39,
+    "gene": "ALK",
+    "mutation": "EML4-ALK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư tuyến tiền liệt",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Alectinib",
+    "recommended_combination": [
+      "Alectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Alectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến EML4-ALK Fusion."
+  },
+  {
+    "id": 40,
+    "gene": "KRAS",
+    "mutation": "G12V",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư thực quản",
+    "stage": "Giai đoạn sớm",
+    "recommended_drug": "Sotorasib",
+    "recommended_combination": [
+      "Sotorasib",
+      "Panitumumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Sotorasib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến G12V."
+  },
+  {
+    "id": 41,
+    "gene": "BRCA1",
+    "mutation": "185delAG",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn sớm",
+    "recommended_drug": "Olaparib",
+    "recommended_combination": [
+      "Olaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Olaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 185delAG."
+  },
+  {
+    "id": 42,
+    "gene": "KRAS",
+    "mutation": "G12V",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư phổi không tế bào nhỏ",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Sotorasib",
+    "recommended_combination": [
+      "Sotorasib",
+      "Panitumumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Sotorasib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến G12V."
+  },
+  {
+    "id": 43,
+    "gene": "NRAS",
+    "mutation": "Q61R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư gan",
+    "stage": "Giai đoạn IV",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61R."
+  },
+  {
+    "id": 44,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư tuyến giáp",
+    "stage": "Giai đoạn tái phát",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 45,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư thận",
+    "stage": "Giai đoạn IV",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 46,
+    "gene": "PIK3CA",
+    "mutation": "E545K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư da hắc tố",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Alpelisib",
+    "recommended_combination": [
+      "Alpelisib",
+      "Fulvestrant"
+    ],
+    "drug_effectiveness_info": "Thuốc Alpelisib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến E545K."
+  },
+  {
+    "id": 47,
+    "gene": "MET",
+    "mutation": "Exon14 Skipping",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư phổi tế bào nhỏ",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Capmatinib",
+    "recommended_combination": [
+      "Capmatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Capmatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon14 Skipping."
+  },
+  {
+    "id": 48,
+    "gene": "MET",
+    "mutation": "Exon14 Skipping",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn khu trú",
+    "recommended_drug": "Capmatinib",
+    "recommended_combination": [
+      "Capmatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Capmatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon14 Skipping."
+  },
+  {
+    "id": 49,
+    "gene": "ALK",
+    "mutation": "EML4-ALK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Alectinib",
+    "recommended_combination": [
+      "Alectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Alectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến EML4-ALK Fusion."
+  },
+  {
+    "id": 50,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư tuyến tiền liệt",
+    "stage": "Giai đoạn II",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 51,
+    "gene": "NRAS",
+    "mutation": "Q61R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư phổi tế bào nhỏ",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61R."
+  },
+  {
+    "id": 52,
+    "gene": "BRCA2",
+    "mutation": "6174delT",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư đầu cổ",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Rucaparib",
+    "recommended_combination": [
+      "Rucaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Rucaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 6174delT."
+  },
+  {
+    "id": 53,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư đại trực tràng",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 54,
+    "gene": "BRCA1",
+    "mutation": "185delAG",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư da hắc tố",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Olaparib",
+    "recommended_combination": [
+      "Olaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Olaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 185delAG."
+  },
+  {
+    "id": 55,
+    "gene": "EGFR",
+    "mutation": "L858R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư thực quản",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến L858R."
+  },
+  {
+    "id": 56,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư da hắc tố",
+    "stage": "Giai đoạn khu trú",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 57,
+    "gene": "BRAF",
+    "mutation": "V600K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư cổ tử cung",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Dabrafenib",
+    "recommended_combination": [
+      "Dabrafenib",
+      "Trametinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Dabrafenib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến V600K."
+  },
+  {
+    "id": 58,
+    "gene": "BRCA1",
+    "mutation": "185delAG",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư tụy",
+    "stage": "Giai đoạn III",
+    "recommended_drug": "Olaparib",
+    "recommended_combination": [
+      "Olaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Olaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 185delAG."
+  },
+  {
+    "id": 59,
+    "gene": "NRAS",
+    "mutation": "Q61R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư gan",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61R."
+  },
+  {
+    "id": 60,
+    "gene": "BRCA2",
+    "mutation": "6174delT",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư thực quản",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Rucaparib",
+    "recommended_combination": [
+      "Rucaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Rucaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 6174delT."
+  },
+  {
+    "id": 61,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư da hắc tố",
+    "stage": "Giai đoạn IV",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 62,
+    "gene": "ALK",
+    "mutation": "EML4-ALK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư tuyến giáp",
+    "stage": "Giai đoạn khu trú",
+    "recommended_drug": "Alectinib",
+    "recommended_combination": [
+      "Alectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Alectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến EML4-ALK Fusion."
+  },
+  {
+    "id": 63,
+    "gene": "BRCA1",
+    "mutation": "185delAG",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư tụy",
+    "stage": "Giai đoạn khu trú",
+    "recommended_drug": "Olaparib",
+    "recommended_combination": [
+      "Olaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Olaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 185delAG."
+  },
+  {
+    "id": 64,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư dạ dày",
+    "stage": "Giai đoạn di căn",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 65,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư dạ dày",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 66,
+    "gene": "MET",
+    "mutation": "Exon14 Skipping",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư tuyến giáp",
+    "stage": "Giai đoạn IV",
+    "recommended_drug": "Capmatinib",
+    "recommended_combination": [
+      "Capmatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Capmatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon14 Skipping."
+  },
+  {
+    "id": 67,
+    "gene": "BRAF",
+    "mutation": "V600E",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn tái phát",
+    "recommended_drug": "Dabrafenib",
+    "recommended_combination": [
+      "Dabrafenib",
+      "Trametinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Dabrafenib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến V600E."
+  },
+  {
+    "id": 68,
+    "gene": "NRAS",
+    "mutation": "Q61K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn di căn",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61K."
+  },
+  {
+    "id": 69,
+    "gene": "ALK",
+    "mutation": "EML4-ALK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư hạch không Hodgkin",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Alectinib",
+    "recommended_combination": [
+      "Alectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Alectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến EML4-ALK Fusion."
+  },
+  {
+    "id": 70,
+    "gene": "BRAF",
+    "mutation": "V600E",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư xương",
+    "stage": "Giai đoạn khu trú",
+    "recommended_drug": "Dabrafenib",
+    "recommended_combination": [
+      "Dabrafenib",
+      "Trametinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Dabrafenib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến V600E."
+  },
+  {
+    "id": 71,
+    "gene": "BRAF",
+    "mutation": "V600E",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư đại trực tràng",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Dabrafenib",
+    "recommended_combination": [
+      "Dabrafenib",
+      "Trametinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Dabrafenib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến V600E."
+  },
+  {
+    "id": 72,
+    "gene": "BRCA1",
+    "mutation": "185delAG",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư phổi không tế bào nhỏ",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Olaparib",
+    "recommended_combination": [
+      "Olaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Olaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 185delAG."
+  },
+  {
+    "id": 73,
+    "gene": "BRAF",
+    "mutation": "V600E",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư thận",
+    "stage": "Giai đoạn II",
+    "recommended_drug": "Dabrafenib",
+    "recommended_combination": [
+      "Dabrafenib",
+      "Trametinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Dabrafenib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến V600E."
+  },
+  {
+    "id": 74,
+    "gene": "NRAS",
+    "mutation": "Q61K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư phổi không tế bào nhỏ",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61K."
+  },
+  {
+    "id": 75,
+    "gene": "PIK3CA",
+    "mutation": "E545K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư tụy",
+    "stage": "Giai đoạn tái phát",
+    "recommended_drug": "Alpelisib",
+    "recommended_combination": [
+      "Alpelisib",
+      "Fulvestrant"
+    ],
+    "drug_effectiveness_info": "Thuốc Alpelisib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến E545K."
+  },
+  {
+    "id": 76,
+    "gene": "EGFR",
+    "mutation": "Exon19del",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư thực quản",
+    "stage": "Giai đoạn tái phát",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon19del."
+  },
+  {
+    "id": 77,
+    "gene": "EGFR",
+    "mutation": "T790M",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư xương",
+    "stage": "Giai đoạn tái phát",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến T790M."
+  },
+  {
+    "id": 78,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư phổi không tế bào nhỏ",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 79,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư da hắc tố",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 80,
+    "gene": "BRCA1",
+    "mutation": "185delAG",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư phổi tế bào nhỏ",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Olaparib",
+    "recommended_combination": [
+      "Olaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Olaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 185delAG."
+  },
+  {
+    "id": 81,
+    "gene": "NRAS",
+    "mutation": "Q61K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư hạch không Hodgkin",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Binimetinib",
+    "recommended_combination": [
+      "Binimetinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Binimetinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Q61K."
+  },
+  {
+    "id": 82,
+    "gene": "PIK3CA",
+    "mutation": "H1047R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư đầu cổ",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Alpelisib",
+    "recommended_combination": [
+      "Alpelisib",
+      "Fulvestrant"
+    ],
+    "drug_effectiveness_info": "Thuốc Alpelisib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến H1047R."
+  },
+  {
+    "id": 83,
+    "gene": "BRCA2",
+    "mutation": "6174delT",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư phổi tế bào nhỏ",
+    "stage": "Giai đoạn tái phát",
+    "recommended_drug": "Rucaparib",
+    "recommended_combination": [
+      "Rucaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Rucaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 6174delT."
+  },
+  {
+    "id": 84,
+    "gene": "KRAS",
+    "mutation": "G13D",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Sotorasib",
+    "recommended_combination": [
+      "Sotorasib",
+      "Panitumumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Sotorasib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến G13D."
+  },
+  {
+    "id": 85,
+    "gene": "TP53",
+    "mutation": "R175H",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Cisplatin",
+    "recommended_combination": [
+      "Cisplatin",
+      "5-FU"
+    ],
+    "drug_effectiveness_info": "Thuốc Cisplatin cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến R175H."
+  },
+  {
+    "id": 86,
+    "gene": "EGFR",
+    "mutation": "Exon19del",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư phổi không tế bào nhỏ",
+    "stage": "Giai đoạn III",
+    "recommended_drug": "Osimertinib",
+    "recommended_combination": [
+      "Osimertinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Osimertinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon19del."
+  },
+  {
+    "id": 87,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư đại trực tràng",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 88,
+    "gene": "PIK3CA",
+    "mutation": "E545K",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư buồng trứng",
+    "stage": "Giai đoạn tiến triển",
+    "recommended_drug": "Alpelisib",
+    "recommended_combination": [
+      "Alpelisib",
+      "Fulvestrant"
+    ],
+    "drug_effectiveness_info": "Thuốc Alpelisib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến E545K."
+  },
+  {
+    "id": 89,
+    "gene": "RET",
+    "mutation": "RET Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn II",
+    "recommended_drug": "Selpercatinib",
+    "recommended_combination": [
+      "Selpercatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Selpercatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến RET Fusion."
+  },
+  {
+    "id": 90,
+    "gene": "PIK3CA",
+    "mutation": "H1047R",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư đầu cổ",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Alpelisib",
+    "recommended_combination": [
+      "Alpelisib",
+      "Fulvestrant"
+    ],
+    "drug_effectiveness_info": "Thuốc Alpelisib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến H1047R."
+  },
+  {
+    "id": 91,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 1.",
+    "cancer_type": "Ung thư tụy",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 92,
+    "gene": "TP53",
+    "mutation": "R175H",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư dạ dày",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Cisplatin",
+    "recommended_combination": [
+      "Cisplatin",
+      "5-FU"
+    ],
+    "drug_effectiveness_info": "Thuốc Cisplatin cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến R175H."
+  },
+  {
+    "id": 93,
+    "gene": "MET",
+    "mutation": "Exon14 Skipping",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư buồng trứng",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Capmatinib",
+    "recommended_combination": [
+      "Capmatinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Capmatinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Exon14 Skipping."
+  },
+  {
+    "id": 94,
+    "gene": "TP53",
+    "mutation": "R273C",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư vú",
+    "stage": "Giai đoạn sớm",
+    "recommended_drug": "Cisplatin",
+    "recommended_combination": [
+      "Cisplatin",
+      "5-FU"
+    ],
+    "drug_effectiveness_info": "Thuốc Cisplatin cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến R273C."
+  },
+  {
+    "id": 95,
+    "gene": "NTRK",
+    "mutation": "NTRK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư xương",
+    "stage": "Giai đoạn III",
+    "recommended_drug": "Larotrectinib",
+    "recommended_combination": [
+      "Larotrectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Larotrectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến NTRK Fusion."
+  },
+  {
+    "id": 96,
+    "gene": "BRAF",
+    "mutation": "V600E",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư xương",
+    "stage": "Giai đoạn tại chỗ",
+    "recommended_drug": "Dabrafenib",
+    "recommended_combination": [
+      "Dabrafenib",
+      "Trametinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Dabrafenib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến V600E."
+  },
+  {
+    "id": 97,
+    "gene": "BRCA1",
+    "mutation": "185delAG",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư tụy",
+    "stage": "Giai đoạn xâm lấn",
+    "recommended_drug": "Olaparib",
+    "recommended_combination": [
+      "Olaparib"
+    ],
+    "drug_effectiveness_info": "Thuốc Olaparib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến 185delAG."
+  },
+  {
+    "id": 98,
+    "gene": "HER2",
+    "mutation": "Amplification",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư hạch không Hodgkin",
+    "stage": "Giai đoạn tái phát",
+    "recommended_drug": "Trastuzumab",
+    "recommended_combination": [
+      "Trastuzumab",
+      "Pertuzumab"
+    ],
+    "drug_effectiveness_info": "Thuốc Trastuzumab cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến Amplification."
+  },
+  {
+    "id": 99,
+    "gene": "ALK",
+    "mutation": "EML4-ALK Fusion",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 2.",
+    "cancer_type": "Ung thư buồng trứng",
+    "stage": "Giai đoạn I",
+    "recommended_drug": "Alectinib",
+    "recommended_combination": [
+      "Alectinib"
+    ],
+    "drug_effectiveness_info": "Thuốc Alectinib cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến EML4-ALK Fusion."
+  },
+  {
+    "id": 100,
+    "gene": "TP53",
+    "mutation": "R175H",
+    "clinical_info": "Khối u tiến triển với biểu hiện lâm sàng mức độ 3.",
+    "cancer_type": "Ung thư đầu cổ",
+    "stage": "Giai đoạn 0",
+    "recommended_drug": "Cisplatin",
+    "recommended_combination": [
+      "Cisplatin",
+      "5-FU"
+    ],
+    "drug_effectiveness_info": "Thuốc Cisplatin cho thấy hiệu quả đáng kể trên bệnh nhân mang đột biến R175H."
+  }
+]
