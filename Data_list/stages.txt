@@ -1,12 +1,17 @@
 Giai đoạn 0
 Giai đoạn I
+Giai đoạn IA
+Giai đoạn IB
+Giai đoạn IC
 Giai đoạn II
+Giai đoạn IIA
+Giai đoạn IIB
+Giai đoạn IIC
 Giai đoạn III
+Giai đoạn IIIA
+Giai đoạn IIIB
+Giai đoạn IIIC
 Giai đoạn IV
-Giai đoạn sớm
-Giai đoạn tiến triển
-Giai đoạn tái phát
-Giai đoạn di căn
-Giai đoạn tại chỗ
-Giai đoạn khu trú
-Giai đoạn xâm lấn
+Giai đoạn IVA
+Giai đoạn IVB
+Giai đoạn IVC

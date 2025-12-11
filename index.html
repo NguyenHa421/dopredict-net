@@ -22,8 +22,14 @@
 
         <div class="form-inputs">
 
-            <label>Gen</label>
-            <input type="text" id="gene" class="input-box" placeholder="Nhập gen..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+            <label for="gen">Gen</label>
+            <div class="autocomplete-box" id="gen-box">
+                <input type="text" id="gen" class="input-box" placeholder="Nhập mã gen..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+                <button type="button" class="dropdown-btn" onclick="toggleList('gen')">
+                    <img src="Image/dropdown.png">
+                </button>
+                <ul id="gen-list" class="dropdown-list"></ul>
+            </div>
 
             <label for="mutation">Đột biến</label>
             <div class="autocomplete-box" id="mutation-box">

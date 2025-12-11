@@ -1,21 +1,314 @@
-Amplification
-G12D
-G12V
-G13D
-H1047R
-E545K
-V600E
-V600K
-EML4-ALK Fusion
-R175H
-R273C
-185delAG
-6174delT
-Q61K
-Q61R
-Exon14 Skipping
-RET Fusion
-NTRK Fusion
-L858R
-Exon19del
-T790M
+Missense mutation
+Nonsense mutation
+Silent mutation
+Synonymous mutation
+Non-synonymous mutation
+Readthrough mutation
+Stop-gain
+Stop-loss
+Start-loss
+Start-gain
+Frameshift insertion
+Frameshift deletion
+Frameshift duplication
+Frameshift indel
+In-frame insertion
+In-frame deletion
+In-frame duplication
+In-frame indel
+Large insertion
+Large deletion
+Gene duplication
+Gene triplication
+Gene amplification
+Copy number gain
+Copy number loss
+Homozygous deletion
+Hemizygous deletion
+Deep deletion
+Promoter mutation
+Enhancer mutation
+5' UTR mutation
+3' UTR mutation
+Terminator mutation
+Splice donor mutation
+Splice acceptor mutation
+Splice region mutation
+Cryptic splice site mutation
+Exon skipping
+Exon deletion
+Exon duplication
+Exon inversion
+Exonization
+Gene fusion
+Chromosomal translocation
+Reciprocal translocation
+Inversion
+Complex rearrangement
+Internal tandem duplication (ITD)
+Partial tandem duplication (PTD)
+Repeat expansion
+Microsatellite expansion
+Microsatellite instability-high (MSI-H)
+Microsatellite instability-low (MSI-L)
+CpG site mutation
+CpG island methylation
+Hypermethylation
+Hypomethylation
+LOH (Loss of heterozygosity)
+Uniparental disomy (UPD)
+Chromothripsis
+Chromoplexy
+Segmental loss
+Segmental gain
+Isochromosome formation
+Telomeric loss
+Centromeric loss
+Pseudogene fusion
+Pseudoexon activation
+Gene conversion
+Mosaic mutation
+Somatic mutation
+Germline mutation
+Biallelic mutation
+Monoallelic mutation
+Compound heterozygous mutation
+Pathogenic mutation
+Likely pathogenic mutation
+Benign variant
+Likely benign variant
+Variant of unknown significance (VUS)
+Driver mutation
+Passenger mutation
+Hotspot mutation
+Recurrent mutation
+Activating mutation
+Inactivating mutation
+Gain-of-function mutation
+Loss-of-function mutation
+Kinase-domain mutation
+Ligand-binding mutation
+ATP-binding site mutation
+Cysteine-rich domain mutation
+Zinc-finger mutation
+Helix–loop–helix mutation
+SH2-domain mutation
+SH3-domain mutation
+WD-repeat mutation
+Armadillo-repeat mutation
+Tandem-repeat mutation
+Nonstop mutation
+De novo mutation
+Insertion of mobile element
+Alu insertion
+LINE-1 insertion
+Retrotransposon activation
+Base substitution: transition (A↔G)
+Base substitution: transversion (A↔T)
+Base substitution: transversion (G↔T)
+Base substitution: transversion (C↔A)
+Dinucleotide substitution
+Trinucleotide substitution
+Tetranucleotide substitution
+Multi-nucleotide variant (MNV)
+Complex indel
+Non-coding mutation
+Enhancer hijacking mutation
+TERT promoter mutation
+TERT C228T
+TERT C250T
+MYC enhancer amplification
+H3K27M mutation
+H3K36M mutation
+H3F3A G34R
+H3F3A G34V
+H3F3A K27M
+POLE ultramutated mutation
+POLD1 exonuclease mutation
+APOBEC signature mutation
+ARID1A truncation
+TP53 R175H
+TP53 R248Q
+TP53 R273H
+TP53 Y220C
+TP53 G245S
+TP53 R282W
+TP53 hotspot mutation
+KRAS G12A
+KRAS G12C
+KRAS G12D
+KRAS G12R
+KRAS G12S
+KRAS G12V
+KRAS G13D
+KRAS G13C
+KRAS Q61H
+KRAS Q61L
+KRAS Q61R
+NRAS Q61H
+NRAS Q61K
+NRAS Q61R
+HRAS G12V
+HRAS G13R
+EGFR L858R
+EGFR T790M
+EGFR C797S
+EGFR L861Q
+EGFR G719A
+EGFR G719S
+EGFR G719C
+EGFR exon 19 deletion
+EGFR exon 20 insertion
+EGFR exon 20 S768I
+EGFR exon 18 E709K
+ALK fusion
+ALK L1196M
+ALK G1202R
+ALK F1174L
+ALK R1275Q
+ALK I1171T
+ROS1 fusion
+RET fusion
+RET M918T
+RET C634R
+RET V804M
+BRAF V600E
+BRAF V600K
+BRAF D594G
+BRAF L597Q
+BRAF G469A
+BRAF G466E
+BRAF K601E
+BRAF kinase-dead mutation
+BRCA1 c.5266dupC
+BRCA1 185delAG
+BRCA1 C61G
+BRCA1 truncation
+BRCA2 6174delT
+BRCA2 999del5
+BRCA2 K3326X
+BRCA2 truncation
+PIK3CA E545K
+PIK3CA E542K
+PIK3CA H1047R
+PIK3CA H1047L
+PIK3CA N345K
+PTEN C124S
+PTEN R130Q
+PTEN R173H
+PTEN truncation
+IDH1 R132H
+IDH1 R132C
+IDH1 R132G
+IDH1 R132S
+IDH2 R172K
+IDH2 R140Q
+IDH2 R172M
+FLT3-ITD
+FLT3-TKD mutation
+JAK2 V617F
+JAK2 exon 12 mutation
+CALR type 1 mutation
+CALR type 2 mutation
+MPL W515L
+MPL W515K
+SF3B1 K700E
+SRSF2 P95H
+U2AF1 S34F
+U2AF1 Q157R
+TET2 frameshift
+DNMT3A R882H
+DNMT3A R882C
+CBL C384R
+KIT D816V
+KIT exon 11 mutation
+KIT exon 17 mutation
+PDGFRA D842V
+PDGFRB fusion
+NPM1 Type A mutation
+RUNX1-RUNX1T1 fusion
+PML-RARA fusion
+KMT2A (MLL) rearrangement
+ETV6-NTRK3 fusion
+NTRK1 fusion
+NTRK2 fusion
+NTRK3 fusion
+FGFR2 fusion
+FGFR3 S249C
+FGFR3 Y373C
+FGFR3 K650E
+FGFR3 K650M
+CDH1 truncation
+CDKN2A p16INK4a deletion
+CDKN2A promoter methylation
+SMARCB1 loss
+SMARCA4 loss
+AR amplification
+ESR1 Y537S
+ESR1 D538G
+ERBB2 amplification
+ERBB2 kinase mutation
+HER2 L755S
+HER2 V777L
+HER2 S310F
+HER2 exon 20 insertion
+MSH2 loss
+MSH6 loss
+MLH1 loss
+MLH1 promoter methylation
+PMS2 loss
+MUTYH biallelic mutation
+CHEK2 1100delC
+ATM truncation
+PALB2 truncation
+RAD51C loss
+RAD51D loss
+PALB2 frameshift
+Fanconi anemia pathway mutation
+MET exon 14 skipping
+MET amplification
+MET Y1230C
+MET D1228N
+TERT promoter hypermethylation
+NFE2L2 mutation
+CTNNB1 S33F
+CTNNB1 S37Y
+CTNNB1 T41A
+CTNNB1 S45P
+APC truncation
+APC promoter mutation
+SMAD4 D351H
+SMAD4 loss
+NOTCH1 PEST domain mutation
+NOTCH2 truncation
+CREBBP loss
+EP300 loss
+BCL2 translocation
+MYC amplification
+CCND1 amplification
+CDK4 amplification
+MDM2 amplification
+MDM4 amplification
+RB1 deletion
+VHL loss
+NF1 truncation
+NF2 truncation
+MEN1 frameshift
+TSC1 truncation
+TSC2 truncation
+SUFU loss
+PTCH1 loss
+SHH activation
+GNAQ Q209L
+GNA11 Q209P
+FOXL2 C134W
+TERT rearrangement
+MITF amplification
+HIF1A stabilization mutation
+E-cadherin loss
+MHC loss mutation
+B2M truncation
+PD-L1 amplification
+PD-L1 3’ UTR rearrangement
+PDCD1 promoter activation
+HLA loss-of-function mutation

@@ -1,0 +1,5 @@
+321 mã Gene
+313 loại đột biến
+153 loại ung thư
+17 giai đoạn ung thư
+1000 mẫu dữ liệu các trường hợp ung thư

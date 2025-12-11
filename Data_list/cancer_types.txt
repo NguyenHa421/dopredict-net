@@ -1,35 +1,153 @@
-Ung thư buồng trứng
-Ung thư tuyến giáp
-Ung thư đại trực tràng
-Ung thư gan
-Ung thư mô mềm
-Ung thư đầu cổ
-Ung thư ruột non
-Ung thư dạ dày
-Ung thư phổi tế bào nhỏ
-Ung thư phổi không tế bào nhỏ
-Ung thư vú
-Ung thư da hắc tố
-Ung thư tuyến tiền liệt
-Ung thư tụy
-Ung thư thận
-Ung thư cổ tử cung
-Ung thư xương
-Ung thư thực quản
-Ung thư gan mật
-Ung thư hạch không Hodgkin
+Alveolar soft part sarcoma
+Astrocytoma
+Bạch cầu cấp dòng lympho (ALL)
+Bạch cầu cấp dòng tủy (AML)
+Bạch cầu cấp promyelocytic (APL)
+Bạch cầu eosinophilic
+Bạch cầu mạn dòng lympho (CLL)
+Bạch cầu mạn dòng tủy (CML)
+Bạch cầu monocytic
+Carcinoid
+Chondrosarcoma
+Clear cell sarcoma
+Craniopharyngioma
+Dermatofibrosarcoma protuberans (DFSP)
+Đa u tủy xương (Multiple myeloma)
+Ependymoma
+Ewing sarcoma
+Fibrosarcoma
+GIST (U mô đệm đường tiêu hóa)
+Hemangioendothelioma ác tính
+Hepatoblastoma
+Hội chứng rối loạn sinh tủy (MDS)
+Leiomyosarcoma
+Liposarcoma
+Macroglobulinemia Waldenström
+MDS/MPN overlap
+Medulloblastoma
+Medulloblastoma
+Melanoma ác tính
+Mesenchymal chondrosarcoma
+Neuroblastoma
+Oligodendroglioma
+Osteosarcoma
+Pheochromocytoma ác tính
+Pineoblastoma
+Plasmacytoma ngoài tủy
+Plasmacytoma xương
+Retinoblastoma
+Rhabdoid tumor
+Rhabdomyosarcoma
+Sarcoma nhi khoa các loại
+Sarcoma phần mềm khác
+Sarcoma xương chưa biệt hóa
+Synovial sarcoma
+Tăng sinh tủy (MPN)
+U biểu mô mạch máu (Angiosarcoma)
+U carcinoid phổi
+U carcinoid ruột
+U hắc tố mắt (Uveal melanoma)
+U lympho Burkitt
+U lympho Hodgkin cổ điển
+U lympho Hodgkin dạng nốt
+U lympho không Hodgkin
+U lympho lymphoplasmacytic
+U lympho nang (Follicular lymphoma)
+U lympho nguyên bào lympho
+U lympho NK/T dạng mũi
+U lympho tế bào áo (Mantle cell lymphoma)
+U lympho tế bào B lớn lan tỏa (DLBCL)
+U lympho tế bào T ngoại vi (PTCL)
+U lympho vùng rìa (MZL)
+U màng não
+U mô mềm ác tính da
+U nguyên bào men răng
+U nguyên bào thần kinh đệm (GBM)
+U tế bào mầm trẻ em
+U thần kinh đệm độ thấp (LGG)
+U thần kinh nội tiết phổi (Pulmonary NET)
+U tủy sống
+U tuyến giáp lạc chỗ
+U tuyến giáp vị trí tiêu hóa lạc chỗ
+U tuyến thượng thận ác tính
+U tuyến yên
+U tương bào xương
+Undifferentiated pleomorphic sarcoma
+Ung thư âm đạo
+Ung thư âm hộ
 Ung thư bàng quang
-Ung thư nội mạc tử cung
-Ung thư máu dòng tủy
-Ung thư máu dòng lympho
-Ung thư đường mật
-Ung thư hạch Hodgkin
-Ung thư amidan
-Ung thư thanh quản
-Ung thư phụ khoa khác
-Ung thư khoang miệng
-Ung thư túi mật
-Ung thư hạch bạch huyết
-Ung thư tinh hoàn
+Ung thư bàng quang thể urothelial
+Ung thư bàng quang thể vảy
+Ung thư bàng quang tuyến
+Ung thư bể thận
+Ung thư biểu mô tế bào gan (HCC)
+Ung thư bìu
+Ung thư buồng trứng biểu mô
+Ung thư buồng trứng stromal
+Ung thư buồng trứng tế bào mầm
+Ung thư cổ tử cung
+Ung thư dạ dày
+Ung thư da tế bào đáy (BCC)
+Ung thư da tế bào vảy (SCC)
 Ung thư dương vật
-Ung thư buồng trứng dạng biểu mô
+Ung thư đại tràng
+Ung thư đại tràng phải
+Ung thư đại tràng trái
+Ung thư đường mật ngoài gan
+Ung thư đường mật trong gan
+Ung thư hầu họng
+Ung thư hậu môn
+Ung thư hốc mắt
+Ung thư khoang mũi
+Ung thư lưỡi
+Ung thư miệng
+Ung thư nguyên bào nuôi (ung thư nhau thai)
+Ung thư niệu đạo
+Ung thư niệu quản
+Ung thư nội mạc tử cung
+Ung thư phổi không tế bào nhỏ (NSCLC)
+Ung thư phổi tế bào lớn
+Ung thư phổi tế bào nhỏ (SCLC)
+Ung thư phổi tế bào vảy (Squamous cell carcinoma)
+Ung thư phổi tuyến (Adenocarcinoma)
+Ung thư ruột non
+Ung thư tá tràng
+Ung thư tâm vị
+Ung thư tế bào Leydig
+Ung thư tế bào Merkel
+Ung thư tế bào mỡ ác tính
+Ung thư tế bào Sertoli
+Ung thư thanh quản
+Ung thư thần kinh nội tiết (NET)
+Ung thư thận sarcomatoid
+Ung thư thận tế bào nhú
+Ung thư thận tế bào sáng
+Ung thư thân tử cung
+Ung thư thực quản tế bào vảy
+Ung thư thực quản tuyến
+Ung thư tinh hoàn tế bào mầm
+Ung thư trung biểu mô màng phổi (Mesothelioma)
+Ung thư trực tràng
+Ung thư túi mật
+Ung thư tụy dạng nang
+Ung thư tụy neuroendocrine (pNET)
+Ung thư tụy tuyến
+Ung thư tuyến cận giáp
+Ung thư tuyến dưới hàm
+Ung thư tuyến giáp thể không biệt hóa
+Ung thư tuyến giáp thể nang
+Ung thư tuyến giáp thể nhú
+Ung thư tuyến giáp thể tủy (MTC)
+Ung thư tuyến mang tai
+Ung thư tuyến nước bọt
+Ung thư tuyến thượng thận
+Ung thư tuyến tiền liệt
+Ung thư tuyến tiền liệt (ghi lại cho đủ nhóm)
+Ung thư vòi trứng
+Ung thư vòm họng
+Ung thư vú
+Ung thư vú thể HER2 dương
+Ung thư vú thể HR+
+Ung thư vú thể triple-negative
+Ung thư xoang cạnh mũi
+Wilms tumor

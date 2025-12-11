@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     let data = {
+        gen: [],
         mutation: [],
         cancer: [],
         stage: [],
@@ -21,11 +22,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // load dữ liệu danh sách + file json mẫu
     Promise.all([
+        loadList("Data_list/gen.txt"),
         loadList("Data_list/mutations.txt"),
         loadList("Data_list/cancer_types.txt"),
         loadList("Data_list/stages.txt"),
         loadJSON("Data_list/DOPredict-Net-samples.json")
-    ]).then(([mutation, cancer, stage, samples]) => {
+    ]).then(([gen, mutation, cancer, stage, samples]) => {
+        data.gen = gen;
         data.mutation = mutation;
         data.cancer = cancer;
         data.stage = stage;
@@ -85,19 +88,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // ẩn tất cả dropdown (dùng khi xóa)
     function hideAllDropdowns() {
-        ["mutation", "cancer", "stage"].forEach(type => {
+        ["gen", "mutation", "cancer", "stage"].forEach(type => {
             const list = document.getElementById(type + "-list");
             if (list) list.style.display = "none";
         });
     }
 
-    ["mutation", "cancer", "stage"].forEach(type => {
+    ["gen", "mutation", "cancer", "stage"].forEach(type => {
         const input = document.getElementById(type);
         input.addEventListener("input", () => filter(type));
     });
 
     document.addEventListener("click", (e) => {
-        ["mutation", "cancer", "stage"].forEach(type => {
+        ["gen", "mutation", "cancer", "stage"].forEach(type => {
             const box = document.getElementById(type + "-box");
             if (!box.contains(e.target)) {
                 const list = document.getElementById(type + "-list");
@@ -316,7 +319,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Nút gửi: dùng phân tích trên
     document.getElementById("submit-btn").addEventListener("click", () => {
-        const gene = document.getElementById("gene").value;
+        const gene = document.getElementById("gen").value;
         const mutation = document.getElementById("mutation").value;
         const clinical = document.getElementById("clinical").value;
         const cancer = document.getElementById("cancer").value;
